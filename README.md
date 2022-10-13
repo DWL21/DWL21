@@ -1,6 +1,7 @@
-### Hi there 👋
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dwl21&theme=highcontrast&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 <!--
+### Hi there 👋
 **DWL21/DWL21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
