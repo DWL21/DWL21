@@ -16,7 +16,7 @@ Slack Authorization Server의 엔드포인트
 Get https://slack.com/openid/connect/authorize?
  scope=email openid profile
 &client_id=4274003170465.4274015409041
-&redirect_uri=https://kkogkkog2.com/redirect
+&redirect_uri=https://kkogkkog.com/redirect
 &response_type=code
 ```
 <img width="1086" alt="슬랙로그인과정1" src="https://user-images.githubusercontent.com/76774809/197389421-69493b7e-54bc-4ca8-8f97-c75e80339274.png">
