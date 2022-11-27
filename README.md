@@ -1,5 +1,6 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dwl21&theme=highcontrast&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+- 우아한테크코스 4기 백엔드 크루(2022.02 - 2022.11)
 <!--
 ### Hi there 👋
 **DWL21/DWL21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
