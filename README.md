@@ -1,19 +1,15 @@
 
+### Hi there 👋
+
+- 🌱 I'm currently learning Java, Kotlin, and backend development fundamentals.
+- 💻 I'm already familiar with practical Java skills.
+- And now I'm focusing my best efforts on studying CS fundamentals.
+- 💬 Ask me about my passion for backend engineering.
+- 📫 How to reach me: nggus5@gmail.com
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dwl21&theme=highcontrast&count_private=true)](https://github.com/anuraghazra/github-readme-stats)  
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=nggus5)](https://solved.ac/nggus5/)
+
+### Experiences
+
 - 우아한테크코스 4기 백엔드 크루(2022.02 - 2022.11)
-<!--
-### Hi there 👋
-**DWL21/DWL21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
