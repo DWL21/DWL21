@@ -2,8 +2,7 @@
 ### Hi there 👋
 
 - 🌱 I'm currently learning Java, Kotlin, and backend development fundamentals.
-- 💻 I'm already familiar with practical Java skills.
-- And now I'm focusing my best efforts on studying CS fundamentals.
+- 💻 I'm already familiar with practical Java skills. And now I'm focusing my best efforts on studying CS fundamentals.
 - 💬 Ask me about my passion for backend engineering.
 - 📫 How to reach me: nggus5@gmail.com
 
