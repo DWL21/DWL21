@@ -1,52 +1,58 @@
-# 문제의 본질에서 성과의 지름길을 찾는 백엔드 엔지니어, 레오입니다. 👋
+# 문제의 본질에서 성과의 지름길을 찾는 백엔드 엔지니어, 레오입니다 👋
 
-### 🚀 About Me (KR)
-- 숭실대학교 소프트웨어학부 재학
-- **개발 효율성과 성과를 최우선으로 고려하며**, 문제를 올바르게 정의하고, 간결한 코드로 폭발적인 생산성을 만들어내는 백엔드 엔지니어입니다.
-- 서비스 기획부터 운영까지 전 과정을 리딩하며, 특히 **이벤트 기반 시스템**과 **자동화 파이프라인** 구축에 강점이 있습니다.
-- 백엔드 엔지니어링의 본질과 동료의 성장에 진심을 다합니다.
+숭실대학교 소프트웨어학부에서 백엔드 엔지니어링을 공부하고 있습니다. 문제를 정확히 정의한 뒤, 서비스에 필요한 구조를 간결하게 설계하고 운영 가능한 형태로 완성하는 데 집중합니다.
 
----
+교내 IT 프로젝트 동아리 **Yourssu**에서 백엔드 팀을 이끌며 서비스 기획부터 개발, 배포, 운영까지 경험했습니다. 특히 이벤트 기반 모니터링과 반복 업무를 줄이는 자동화 파이프라인을 설계할 때 가장 큰 재미를 느낍니다.
 
-### 💼 Experiences
+## About Me
 
-- **[유어슈(Yourssu)](https://yourssu.com/)** | 백엔드팀 리드 (2024.10 - Present)
-  - [숭실대학교 교내 IT 서비스 동아리 백엔드 팀](https://medium.com/yourssu/%EB%B0%B1%EC%97%94%EB%93%9C-%ED%8C%80%EC%9D%84-%EC%86%8C%EA%B0%9C%ED%95%A9%EB%8B%88%EB%8B%A4-a9a862612452) 리딩 및 기술 스택 표준화 주도
-- **[NHN Cloud](https://www.nhncloud.com/kr)** | 백엔드 엔지니어 (2025.07 - 2025.08, 2학년 여름방학)
-- **[우아한테크코스 4기](https://www.woowacourse.io/)** | 백엔드 크루 (2022.02 - 2022.11)
-  - Java 및 Spring Boot 기반의 객체지향 설계 및 클린 코드 / 소프트웨어 개발 방법론 학습 
+- 숭실대학교 소프트웨어학부 재학 중
+- 팀의 기술 스택과 개발 방식을 정리하고, 구성원이 안정적으로 서비스를 개발·운영할 수 있는 환경을 만드는 일을 합니다.
+- 도메인 모델링, 동시성 제어, 배포 자동화, 모니터링을 포함해 서비스의 전체 수명주기를 고민합니다.
 
----
+## Tech Stack
 
-### 🛠 Tech Stack
+**Programming Languages**
 
-- **Languages**
+<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" alt="C" />
+<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
+<img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
 
-    <img src="https://img.shields.io/badge/java-%23007396.svg?style=for-the-badge&logo=index-java&logoColor=white"> <img src="https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white"> <img src="https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white">
+**Backend & Frameworks**
 
-- **Frameworks** 
+<img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot" />
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
+<img src="https://img.shields.io/badge/ROS2-22314E?style=for-the-badge&logo=ros&logoColor=white" alt="ROS2" />
 
-    <img src="https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?style=for-the-badge&logo=spring-boot&logoColor=white"> <img src="https://img.shields.io/badge/ROS2-%2322314E.svg?style=for-the-badge&logo=ros&logoColor=white">
+**Infrastructure & Databases**
 
----
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
+<img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Cloudflare" />
+<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+<img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle" />
+<img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions" />
 
-### 🏆 Key Projects
+## Projects
 
-- **[SoongPT (교내 시간표 추천 서비스)](https://github.com/yourssu/soongpt-backend)**
-  - **Role:** 백엔드 개발 및 운영 (1.5년+)
-  - **Key Features:**
-    - 사용자 맞춤형 강의 필터링 및 실시간 시간표 생성 엔진 구축(~2025년)
-    - 데이터 일관성 확보와 플랫폼 확장성을 위한 과목 도메인 데이터 구축 및 API 설계 (2026년~)
-- **[Signal (대학 축제 데이팅 서비스)](https://github.com/yourssu/signal-backend)**
-  - **Role:** 백엔드 개발 및 운영 (2025년 1학기, 2학기)
-  - 총 매칭 횟수 2,316회 달성 및 매출 193만원 기록
-  - **Key Features:**
-    - PG사 도입이 어려운 환경에서 **iOS 단축어 + Slack API**를 조합한 **저비용 고효율** 결제 확인 파이프라인 구축
-    - 서비스 장애 대응력 향상을 위해 Event-Driven 구조의 실시간 모니터링 시스템 구축 및 운영 효율 개선
-      - Slack Bot을 연동한 실시간 모니터링 및 어드민 시스템 구축
+### [SoongPT — 교내 시간표 추천 서비스](https://github.com/yourssu/soongpt-backend)
 
----
+- 백엔드 개발과 운영을 담당했습니다.
+- 사용자의 조건에 맞춰 강의를 필터링하고 시간표를 생성하는 기능을 구축했습니다.
+- 과목 데이터를 일관되게 관리하고 서비스 확장에 대응할 수 있도록 도메인 모델과 API를 설계·고도화하고 있습니다.
+- Docker와 GitHub Actions를 활용해 개발·운영 환경을 분리하고 배포 파이프라인을 구성했습니다.
 
-### 📫 Contact Me
-- **Email:** [nggus5@gmail.com](mailto:nggus5@gmail.com)
-- **GitHub:** [github.com/dwl21](https://github.com/dwl21)
+### [Signal — 대학 축제 데이팅 서비스](https://github.com/yourssu/signal-backend)
+
+- 축제 기간 서비스의 백엔드 개발과 운영을 담당했습니다.
+- Kotlin, Spring Boot 기반으로 인증·프로필·주문·결제 도메인을 설계하고 JWT 인증과 결제 연동을 구현했습니다.
+- 총 **2,316회 매칭**, **매출 193만 원**을 기록했습니다.
+- PG사 도입이 어려운 제약 속에서 iOS 단축어와 Slack API를 조합해 결제 확인을 자동화했습니다.
+- Slack Bot 기반 어드민·모니터링을 구축하고, 이벤트 기반 구조로 운영 이슈를 빠르게 감지할 수 있도록 개선했습니다.
+
+## Contact
+
+- Email: [nggus5@gmail.com](mailto:nggus5@gmail.com)
+- GitHub: [github.com/dwl21](https://github.com/dwl21)
